@@ -2,7 +2,7 @@
 #Este es un codigo ilustrativo, no necesariamente funcional.
 #This is a ilustative code... not funtional neither part of any project
 import random, sys, string, threading, socket, os
-AntJugador = "-"
+AntJugador = "-" 
 ProxJugador = "-"
 Puntuacion = [0,0]
 instanciajugador = []
